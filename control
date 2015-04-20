@@ -1,0 +1,9 @@
+Package: org.coolstar.tweetbotblurremover
+Name: Tweetbot Blur Remover
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: CoolStar
+Author: CoolStar
+Section: Tweaks
